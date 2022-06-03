@@ -104,7 +104,7 @@
   "dependencies": {
     "@angular/animations": "4.0.1",
     "@angular/common": "4.0.1",
-    "@angular/core": "4.0.1",
+    "@angular/core": "11.0.5",
     "@angular/forms": "4.0.1",
     "@angular/http": "4.0.1",
     "c3": "0.4.11",
